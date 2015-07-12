@@ -31,7 +31,7 @@ I took over the backend support and infrastructure of a Rails Application.  I re
 - Used and supported Capistrano as the deployment system, working towards Capv3
 - Leveraged NewRelic day-to-day.
 
-## University of Texas at Austin (Austin, TX) March 2012 – October 2012
+### University of Texas at Austin (Austin, TX) March 2012 – October 2012
 
 **Software Engineer**
 
@@ -46,7 +46,7 @@ My primary responsibility to run the Blackboard Infrastructure also included int
 - Installed multiple “out-of-band” patches that are required for supporting Blackboard
 - Created a “self-service” way to add “master-courses” in a very timely fashion
 
-## HP Cloud Services (Austin, TX) August 2011 – March 2012
+### HP Cloud Services (Austin, TX) August 2011 – March 2012
 
 **Cloud Engineer and Incident Management**
 
@@ -62,7 +62,7 @@ A 6 month contract that got extended 2 extra months then they decided not to ext
 - RCA
 - General Incident Management for internal and external communications
 
-## Dell (via the MessageOne Acquisition) (Austin, TX) September 2007 – June 2011
+### Dell (via the MessageOne Acquisition) (Austin, TX) September 2007 – June 2011
 
 **Senior DevOps Engineer**
 
